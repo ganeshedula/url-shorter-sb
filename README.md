@@ -10,6 +10,9 @@
 
 A production-ready, highly available RESTful URL Shortener backend service built with **Java 21**, **Spring Boot 3**, **Spring Security 6**, **PostgreSQL**, **Redis**, **JWT Authentication**, **Maven**, **Lombok**, and **OpenAPI/Swagger**.
 
+frontend : https://github.com/ganeshedula/url-shorter-fe
+
+
 ---
 
 ## 🌟 Key Features
